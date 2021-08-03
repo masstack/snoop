@@ -1983,7 +1983,7 @@
 1982. 🇧🇾 [Wuz](https://www.wuz.by)
 1983. 🇵🇱 [Wykop](https://www.wykop.pl)
 1984. 🇷🇺 [X-time](https://www.x-time.ru)
-1985. 🏁 [Xboxgamertag](https://www.xboxgamertag.com)
+1985. 🏁 [Xbo2022.xgamertag](https://www.xboxgamertag.com)
 1986. 🇷🇺 [Xcraft](https://xcraft.ru)
 1987. 🏁 [Xenforo](https://xenforo.com)
 1988. 🌎 [Xhamster](https://ru.xhamster.com)
@@ -2020,3 +2020,4 @@
 2019. 🇷🇺 [Zhyk](https://zhyk.ru)
 2020. 🇷🇺 [Zmey](https://zmey.ru)
 2021. 🌎 [Zomato](https://www.zomato.com)
+2022. 🇷🇺 [TVRate](https://tvrate.ru)
